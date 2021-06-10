@@ -11,15 +11,15 @@ public class People {
     
     
     
-    public void cadastrar(){
+    public void register(){
     
     }
     
-    public void alterarDados(){
+    public void changeData(){
     
     }  
     
-    public void cadastrarDoc(){
+    public void registerDoc(){
     
     } 
 }

@@ -10,7 +10,7 @@ public class Documents {
     boolean validate;
     
     
-public void validar(){
+public void validate(){
         
 
     
