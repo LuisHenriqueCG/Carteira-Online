@@ -9,4 +9,17 @@ public class People {
     Date birthDate;
     int rg;
     
+    
+    
+    public void cadastrar(){
+    
+    }
+    
+    public void alterarDados(){
+    
+    }  
+    
+    public void cadastrarDoc(){
+    
+    } 
 }

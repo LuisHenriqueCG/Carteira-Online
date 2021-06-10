@@ -8,4 +8,11 @@ public class Documents {
     int numberDoc;
     Date expirationDate;
     boolean validate;
+    
+    
+public void validar(){
+        
+
+    
+    }
 }
